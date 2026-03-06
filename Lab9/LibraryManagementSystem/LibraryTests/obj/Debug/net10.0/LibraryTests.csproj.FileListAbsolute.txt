@@ -1,0 +1,6 @@
+D:\wipro\Lab9\LibraryManagementSystem\LibraryTests\obj\Debug\net10.0\LibraryTests.csproj.AssemblyReference.cache
+D:\wipro\Lab9\LibraryManagementSystem\LibraryTests\obj\Debug\net10.0\LibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro\Lab9\LibraryManagementSystem\LibraryTests\obj\Debug\net10.0\LibraryTests.AssemblyInfoInputs.cache
+D:\wipro\Lab9\LibraryManagementSystem\LibraryTests\obj\Debug\net10.0\LibraryTests.AssemblyInfo.cs
+D:\wipro\Lab9\LibraryManagementSystem\LibraryTests\obj\Debug\net10.0\LibraryTests.csproj.CoreCompileInputs.cache
+D:\wipro\Lab9\LibraryManagementSystem\LibraryTests\obj\Debug\net10.0\LibraryTests.sourcelink.json

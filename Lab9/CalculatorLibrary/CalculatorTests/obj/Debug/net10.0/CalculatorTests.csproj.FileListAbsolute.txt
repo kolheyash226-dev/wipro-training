@@ -1,0 +1,6 @@
+D:\wipro\Lab9\CalculatorLibrary\CalculatorTests\obj\Debug\net10.0\CalculatorTests.csproj.AssemblyReference.cache
+D:\wipro\Lab9\CalculatorLibrary\CalculatorTests\obj\Debug\net10.0\CalculatorTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro\Lab9\CalculatorLibrary\CalculatorTests\obj\Debug\net10.0\CalculatorTests.AssemblyInfoInputs.cache
+D:\wipro\Lab9\CalculatorLibrary\CalculatorTests\obj\Debug\net10.0\CalculatorTests.AssemblyInfo.cs
+D:\wipro\Lab9\CalculatorLibrary\CalculatorTests\obj\Debug\net10.0\CalculatorTests.csproj.CoreCompileInputs.cache
+D:\wipro\Lab9\CalculatorLibrary\CalculatorTests\obj\Debug\net10.0\CalculatorTests.sourcelink.json

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fetch Employees</title>
+</head>
+<body>
+
+<h2>Open Console to See Employee Data</h2>
+
+<script>
+
+fetch("https://dummy.restapiexample.com/api/v1/employees")
+.then(response => response.json())
+.then(data => {
+    console.log("Employee Data:");
+    console.log(data.data); 
+})
+.catch(error => {
+    console.log("Error:", error);
+});
+
+</script>
+
+</body>
+</html>

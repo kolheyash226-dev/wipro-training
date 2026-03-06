@@ -1,0 +1,6 @@
+D:\wipro26\Day8\CustomAttributes\bin\Debug\CustomAttributes.dll
+D:\wipro26\Day8\CustomAttributes\bin\Debug\CustomAttributes.pdb
+D:\wipro26\Day8\CustomAttributes\obj\Debug\CustomAttributes.csproj.AssemblyReference.cache
+D:\wipro26\Day8\CustomAttributes\obj\Debug\CustomAttributes.csproj.CoreCompileInputs.cache
+D:\wipro26\Day8\CustomAttributes\obj\Debug\CustomAttributes.dll
+D:\wipro26\Day8\CustomAttributes\obj\Debug\CustomAttributes.pdb
